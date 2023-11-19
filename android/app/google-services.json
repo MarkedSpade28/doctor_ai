@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "60888878451",
+    "firebase_url": "https://doctor-s-ai-default-rtdb.firebaseio.com",
+    "project_id": "doctor-s-ai",
+    "storage_bucket": "doctor-s-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60888878451:android:57af9cdf3ea957ee424906",
+        "android_client_info": {
+          "package_name": "com.example.doctors_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp9A_UkSEgb7rypQZw0607_LEjvmwJ8z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
